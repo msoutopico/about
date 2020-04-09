@@ -12,6 +12,6 @@ I have learned about the technical and quality sides of the translation industry
 
 Nowadays I work as a freelance translator/linguist and translation technologist, specializing in terminology management, localization engineering, CAT tool consultancy and QA automation.
 
-Learn more: http://msoutopico.es
+<!-- Learn more: http://msoutopico.es -->
 
-See my CV. 
+See my [CV](https://github.com/msoutopico/about/blob/master/cv_m.soutopico_en.pdf).
