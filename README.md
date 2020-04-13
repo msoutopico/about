@@ -1,8 +1,8 @@
 # Manuel Souto Pico
 
-Linguist · Translation technologist
+### Linguist · Translation technologist
 
-Skype: msoutopico (time zone: GMT+1/CET)
+Skype: `msoutopico` (time zone: GMT+1/CET)
 
 I am a Galician/Spanish language specialist and I translate from English, Portuguese, French and Catalan. I speak some Arabic too.
 
