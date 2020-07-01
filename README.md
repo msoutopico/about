@@ -4,15 +4,11 @@
 
 Skype: `msoutopico` (time zone: GMT+1/CET)
 
-I am a Galician/Spanish language specialist and I translate from English, Portuguese, French and Catalan. I speak some Arabic too.
+Originally a Galician/Spanish language specialist and translator from English, Portuguese, French and Catalan, I have evolved towards a CAT tool expert and self-taught developer in PHP, Javascript and Python. I speak some Arabic too, which I keep studying *ad eternum*.
 
-I studied translation and interpreting in Vigo and applied linguistics at IULA (UPF) in Barcelona and have taught myself some scripting language programming with a view to developing language solutions.
+I studied translation and interpreting in Vigo and applied linguistics at IULA (UPF) in Barcelona and have taught myself some scripting language programming with a view to developing language solutions. I have learned about the technical and quality sides of the translation industry working as a terminologist and language coordinator in leading localization companies such as STAR and Lionbridge.
 
-I have learned about the technical and quality sides of the translation industry working as a terminologist and language coordinator in leading localization companies such as STAR and Lionbridge.
-
-I have worked as a freelance translator/linguist and translation technologist for some years, specializing in terminology management, localization engineering, CAT tool consultancy and QA automation.
-
-Nowadays I am the lead translation technologist at cApStAn, where I help the translators, language experts and project managers use their translation environment tool (configuring it, training them, giving them support) and I develop some applications for them to automate some tasks and to increase access to technology and resources.
+After working as a freelance translator/linguist and translation technologist for some years and specializing in terminology management, localization engineering, CAT tool consultancy and QA automation, today I work as lead translation technologist at cApStAn, where I help the translators, language experts and PMs make the best possible use of their CAT tool (configuring it, training them, giving them support) and I develop some applications to automate some of their tasks and to increase their access to technology and resources.
 
 <!-- Learn more: http://msoutopico.es -->
 
