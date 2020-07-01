@@ -10,7 +10,9 @@ I studied translation and interpreting in Vigo and applied linguistics at IULA (
 
 I have learned about the technical and quality sides of the translation industry working as a terminologist and language coordinator in leading localization companies such as STAR and Lionbridge.
 
-Nowadays I work as a freelance translator/linguist and translation technologist, specializing in terminology management, localization engineering, CAT tool consultancy and QA automation.
+I have worked as a freelance translator/linguist and translation technologist for some years, specializing in terminology management, localization engineering, CAT tool consultancy and QA automation.
+
+Nowadays I am the lead translation technologist at cApStAn, where I help the translators, language experts and project managers use their translation environment tool (configuring it, training them, giving them support) and I develop some applications for them to automate some tasks and to increase access to technology and resources.
 
 <!-- Learn more: http://msoutopico.es -->
 
